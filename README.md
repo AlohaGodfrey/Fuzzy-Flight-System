@@ -5,7 +5,7 @@ Fuzzy System for a flight weather alert system
 
 1) Open MATLAB
 2) Enter Fuzzy Command
-3) Import Fuzzy-Flight-System File
+3) Import Weather-Flight-Alert-System.fis File
 
 
 ## Abstract
