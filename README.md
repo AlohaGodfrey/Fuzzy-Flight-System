@@ -11,3 +11,5 @@ Fuzzy System for a flight weather alert system
 ## Abstract
 
 The project aims to explain the problem statement and technical solutions for flight weather system in the context of a Fuzzy Logic system.
+
+![](fuzzyDecisionSurfaces.png)
